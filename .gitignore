@@ -1,5 +1,5 @@
 #Environnement
-.env
+.venv
 
 #Jupyter
 .ipynb_checkpoints
